@@ -39,6 +39,7 @@ include
 include_once
 require
 require_once
+unlink (we can delete a file using lfi)
 
 
 6. file uplaod:-
