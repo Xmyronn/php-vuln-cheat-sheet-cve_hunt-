@@ -84,6 +84,16 @@ curl_exec
 curl_multi_exec
 ```
 
+### 8. sqli
+
+```php
+mysqli_query()
+$query = "SELECT ..."
+$conn->query()
+$db->query()
+
+```
+
 ##  Goal
 
 Use this checklist during:
