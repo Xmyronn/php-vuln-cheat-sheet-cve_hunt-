@@ -64,6 +64,7 @@ include_once
 require
 require_once
 unlink
+readfile
 ```
 
 ---
